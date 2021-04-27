@@ -1,0 +1,21 @@
+{
+  "name": "regex-assignment",
+  "version": "1.0.0",
+  "dependencies": {},
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc",
+    "execute": "node ./dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chyzhvasyl/regex-assignment.git"
+  },
+  "author": "vasyl chyzh",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
